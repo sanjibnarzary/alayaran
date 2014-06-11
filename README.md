@@ -1,7 +1,7 @@
 Alayaran
 ========
 
-Alayaran PHP based open source microblogging site.
+Alayaran PHP based open source microblogging site. The name is taken from a Bodo word Alayaran meaning 'The New Dawn'.
 
 Similarities
 ============
