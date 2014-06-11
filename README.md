@@ -16,3 +16,8 @@ Unlimited text post, commenting, adding friends, status updates etc.
 Demos
 =====
 You can find the live demo at http://www.alayaran.com
+
+Contribution
+============
+If you know any of these PHP, MySQL, JavaScript, HTML, Basic Linux you are free to contribute to this project and welcome to alayaran team.
+To cotribute just fork, make changes and do pull request.
